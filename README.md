@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @albanfelix
+- 👀 I’m interested in both software and hardware.
+- 🌱 I’m currently learning at the Ecole Centrale in Master of Science : Control and Robotics.
+- 📫 How to reach me : www.albanfelix.com or mailto : alban85b@gmail.com
